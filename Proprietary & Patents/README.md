@@ -1,4 +1,4 @@
-Thomas Catalano's Proprietary and Patent works
+Thomas Catalano's Proprietary and Patent work
 
 Classical and Quantum Mechanical Laboratory 
 at Catalano Concepts LLC.
