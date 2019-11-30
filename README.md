@@ -12,7 +12,6 @@ Inclusive & Exclusive
    
    
    
-                        
-                                                                     www.conceptslearningmachine.com
+         www.conceptslearningmachine.com
 
 
