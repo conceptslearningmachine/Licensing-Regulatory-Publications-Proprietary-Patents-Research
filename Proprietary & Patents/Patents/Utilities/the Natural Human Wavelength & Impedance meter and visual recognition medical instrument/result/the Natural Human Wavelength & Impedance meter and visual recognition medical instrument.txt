@@ -3,4 +3,5 @@ the wavelength and it's interactions with all matter.
 A clear containment/open "tub" filled with translucent fluid ie. Water
 with a basin of contrasting sheet ie. copper at voloume per required
 visual registering area to view then by sequencing a calculated/timed 
-pulse width modulation to osso
+pulse width modulation to oscillate the "water" at frequency 60hZ per 
+aspect ratio 1:1. 
