@@ -19,7 +19,7 @@ Inclusive & Exclusive
    
    twitter.com/dr_catalano
    
-   instagram.com/dr.thomascatalano
+
    
    
    
