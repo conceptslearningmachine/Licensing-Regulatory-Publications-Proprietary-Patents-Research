@@ -1,4 +1,4 @@
-forensic scientists; Dr. Thomas Catalano
+forensic/computer scientists & network engineer; Dr. Thomas Catalano
 
 as continuously investigated; the ntp monitoring daemons(Newark, NJ) requires on-site/on-premises
 debugging and immediate lock login/log-logging(ie. stop operations/secure for forensic back logging/updated system requirements).
