@@ -1,4 +1,4 @@
 forensic scientists; Dr. Thomas Catalano
 
-as continuously investigated; the ntp monitoring daemon(Newark, NJ) requires on-site/on-premises
+as continuously investigated; the ntp monitoring daemons(Newark, NJ) requires on-site/on-premises
 debugging and immediate lock login/log-logging
