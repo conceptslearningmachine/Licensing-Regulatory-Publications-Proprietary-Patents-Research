@@ -1,9 +1,3 @@
 
    
-   www.conceptslearningmachine.com
-   
-   
-   github.com/tomsnode
-   
-  
-  
+   Public Policy
