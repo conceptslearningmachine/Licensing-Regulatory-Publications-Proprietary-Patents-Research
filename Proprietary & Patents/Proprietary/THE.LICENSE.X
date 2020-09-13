@@ -1,4 +1,4 @@
-MIT License
+*/* MIT License
 
 Copyright (c) THOMAS "JOSEPH" CATALANO(135-74-4812)DOB:1981-05-02/.\.
 Copyright (c) BIT(s);"BIT(s) "LICENSE""\.
