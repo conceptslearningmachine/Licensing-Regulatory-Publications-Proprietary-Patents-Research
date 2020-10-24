@@ -30,3 +30,10 @@ Every and Any where I go
 
 
 www.conceptslearningmachine.com
+
+
+
+
+
+
+THOMAS CATALANO ©
